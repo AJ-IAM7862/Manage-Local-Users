@@ -8,10 +8,8 @@ build familiarity with tasks that are similar to those performed in Active Direc
 - Windows 11
 <h2>Users Created</h2>
 <p>
-<img width="917" height="442" alt="image"
-src="https://github.com/user-attachments/assets/eddfc0e9-e551-4063-8d4d-102234448a13" />
-</p>
-<p>
-Created a new local user accounts named Avery, Georgina Taylor and Williams, James Manny.
+<img width="819" height="526" alt="image" src="https://github.com/user-attachments/assets/9b5aae02-9e42-4ca1-9def-bf75615541f7" />
+ </p>
+<p>Created a new local user accounts named Jenkins, Giovanni and Spencer, Tiffany Anne
 </p>
 <br />
